@@ -81,7 +81,7 @@ $(function() {
       icon: 'img/googlelogo.png',
     }, {
       name: '赞美诗',
-      link: 'https://www.zanmeishi.com',
+      link: 'https://www.zanmeishige.com',
       box_shadow: '#11B063',
       icon: 'img/zms.png',
     }, {
