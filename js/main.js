@@ -322,7 +322,7 @@ $(function() {
     var id = e.target.id;
     for (var i = 0; i < search.data.length; i++) {
       if (id == search.data[i].name) {
-        document.getElementById("state").innerHTML = "<a href='kiwi://bookmarks'><img style='width:300px;' src='img/" + search.data[i].name + ".png'></a>";
+        document.getElementById("state").innerHTML = "<a href='folder://'><img style='width:300px;' src='img/" + search.data[i].name + ".png'></a>";
         $('#submitButton').css('background-color', search.data[i].color); //按钮bg
         $('#Select').css('color', search.data[i].color); //选择器
         $('#nav').css('display', 'none');
