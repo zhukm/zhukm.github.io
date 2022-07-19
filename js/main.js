@@ -85,8 +85,8 @@ $(function() {
       box_shadow: '#11B063',
       icon: 'img/zms.png',
     }, {
-      name: '福音',
-      link: 'http://pt.fuyinchina.com/m/',
+      name: '圣乐',
+      link: 'https://www.hymnal.net/cn/home',
       box_shadow: '#FA7199',
       icon: 'img/via.png',
     }, {
