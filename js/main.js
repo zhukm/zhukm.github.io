@@ -80,10 +80,10 @@ $(function() {
       box_shadow: '#F18033',
       icon: 'img/googlelogo.png',
     }, {
-      name: '赞美诗',
-      link: 'https://www.zanmeishige.com',
+      name: 'XDA',
+      link: 'https://forum.xda-developers.com/t/app-8-0-guides-revanced-revanced-extended.4523967/',
       box_shadow: '#11B063',
-      icon: 'img/zms.png',
+      icon: 'img/xda.png',
     }, {
       name: '圣乐',
       link: 'https://www.hymnal.net/cn/home',
