@@ -80,7 +80,7 @@ $(function() {
       box_shadow: '#F18033',
       icon: 'img/googlelogo.png',
     }, {
-      name: 'XDA',
+      name: 'Apkpure',
       link: 'https://www.apkpure.com/',
       box_shadow: '#11B063',
       icon: 'img/apkpure.png',
