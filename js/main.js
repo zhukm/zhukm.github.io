@@ -81,9 +81,9 @@ $(function() {
       icon: 'img/googlelogo.png',
     }, {
       name: 'XDA',
-      link: 'https://forum.xda-developers.com/t/app-8-0-guides-revanced-revanced-extended.4523967/',
+      link: 'https://www.apkpure.com/',
       box_shadow: '#11B063',
-      icon: 'img/xda.png',
+      icon: 'img/apkpure.png',
     }, {
       name: '圣乐',
       link: 'https://www.hymnal.net/cn/home',
